@@ -1,0 +1,12 @@
+{
+  "name": "danger_test",
+  "version": "1.0.0",
+  "description": "Quick test for danger.js",
+  "main": "index.js",
+  "author": "MB.io",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "danger": "^7.0.14"
+  }
+}
